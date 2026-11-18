@@ -1,4 +1,4 @@
-# Wan Daphneelya - Data Analytics & BI Professional Portfolio
+# Data Analytics & BI Professional Portfolio
 
 A modern, responsive portfolio website built with **Next.js** (App Router), **TypeScript**, and **Tailwind CSS**, based on the Google Stitch design system.
 
